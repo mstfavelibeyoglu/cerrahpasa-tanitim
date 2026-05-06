@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "title": "2026 Yaz Sezonu Tanıtım Günleri Tarihleri İlan Edildi",
+    "description": "2026 yaz sezonu aday öğrenci tanıtım günleri 20 Temmuz 2026 - 8 Ağustos 2026 tarihleri arasında gerçekleştirilecektir.",
+    "longDescription": "Cerrahpaşa Tıp Fakültesi 2026 Yaz Sezonu Aday Öğrenci Tanıtım Günleri tarihleri netleşti! 20 Temmuz - 8 Ağustos 2026 tarihleri arasında gerçekleştireceğimiz etkinliklerde; kampüs turları, bölüm tanıtımları, akademisyenlerimizle söyleşiler ve öğrenci kulüplerimizin stantları yer alacak. Tüm adaylarımızı ve ailelerini Türkiye'nin en köklü tıp eğitimi kurumlarından birini yakından tanımaya davet ediyoruz.",
+    "date": "24 Nisan 2026",
+    "isNew": true
+  },
+  {
+    "id": 1,
+    "title": "2025-2026 Oryantasyon Programı Tarihleri Açıklandı",
+    "description": "Yeni dönem oryantasyon programımız 9-13 Eylül tarihleri arasında gerçekleştirilecektir. Tüm yeni öğrencilerimizi bekliyoruz!",
+    "longDescription": "Yeni kazanan öğrencilerimiz için hazırladığımız kapsamlı oryantasyon programı 9-13 Eylül tarihleri arasında yapılacaktır. Program kapsamında; fakülte işleyişi, hastane turları, kütüphane kullanımı, öğrenci işleri bilgilendirmesi ve üst dönem öğrencilerle tanışma etkinlikleri yer alacaktır. Katılım zorunlu olmamakla birlikte, uyum süreci için şiddetle tavsiye edilir.",
+    "date": "15 Ağustos 2025",
+    "isNew": false
+  },
+  {
+    "id": 2,
+    "title": "Kayıt Belgeleri Güncellendi",
+    "description": "2025-2026 akademik yılı için gerekli kayıt belgeleri listesi güncellenmiştir. Lütfen kontrol ediniz.",
+    "longDescription": "Kesin kayıt işlemleri için gerekli olan belgeler listesi, YÖK ve üniversitemiz senatosu kararları doğrultusunda güncellenmiştir. Eksik belge ile kayıt yapılması mümkün değildir. Lütfen web sitemizdeki duyurular bölümünden güncel belge listesini indirerek hazırlıklarınızı tamamlayınız.",
+    "date": "10 Ağustos 2025",
+    "isNew": false
+  },
+  {
+    "id": 3,
+    "title": "Tanıtım Günleri Etkinliği",
+    "description": "Ağustos ayı boyunca her Cumartesi kampüs tanıtım turları düzenlenmektedir. Katılım ücretsizdir.",
+    "longDescription": "Fakültemizi merak eden tüm adaylar için Ağustos ayı boyunca her Cumartesi günü saat 11:00 ve 14:00'te rehberli turlar düzenliyoruz. Turlarımızda hem tarihi binalarımızı hem de yeni eğitim alanlarımızı görebilirsiniz.",
+    "date": "1 Ağustos 2025",
+    "isNew": false
+  },
+  {
+    "id": 4,
+    "title": "Yeni Tanıtım Videosu Yayında",
+    "description": "Fakültemizi ve kampüs yaşamını tanıtan yeni videomuz YouTube kanalımızda yayınlandı.",
+    "longDescription": "Cerrahpaşa'da bir gün nasıl geçer? Eğitim olanaklarımız, laboratuvarlarımız ve sosyal hayatımız hakkında her şeyi bulabileceğiniz yeni tanıtım filmimiz yayında. Videoyu profilimizdeki linkten veya resmi YouTube kanalımızdan izleyebilirsiniz.",
+    "date": "25 Temmuz 2025",
+    "isNew": false
+  },
+  {
+    "id": 5,
+    "title": "Soru-Cevap Canlı Yayını",
+    "description": "Aday öğrencilerimiz için Instagram üzerinden canlı soru-cevap etkinliği düzenlenecektir.",
+    "longDescription": "Aday öğrencilerimizin merak ettiği soruları yanıtlamak üzere Fakülte Temsilcilerimiz ve Tanıtım Ekibimizle Instagram üzerinden canlı yayın gerçekleştireceğiz. Sorularınızı şimdiden DM yoluyla iletebilirsiniz.",
+    "date": "20 Temmuz 2025",
+    "isNew": false
+  }
+]
