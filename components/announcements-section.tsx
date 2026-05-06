@@ -11,6 +11,7 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "@/components/ui/dialog"
+import Image from "next/image"
 import { createClient } from "@supabase/supabase-js"
 
 const supabase = createClient(
@@ -25,6 +26,7 @@ interface Announcement {
   longDescription: string
   date: string
   isNew: boolean
+  image_url?: string
 }
 
 export function AnnouncementsSection() {
@@ -113,7 +115,7 @@ export function AnnouncementsSection() {
                     </CardContent>
                   </Card>
                 </DialogTrigger>
-                <DialogContent className="sm:max-w-[600px] rounded-3xl">
+                <DialogContent className="sm:max-w-[700px] rounded-3xl max-h-[90vh] overflow-y-auto">
                   <DialogHeader>
                     <div className="flex items-center gap-2 mb-4">
                       <Badge variant="outline" className="text-muted-foreground">
@@ -130,6 +132,20 @@ export function AnnouncementsSection() {
                       {announcement.title}
                     </DialogTitle>
                   </DialogHeader>
+                  
+                  {/* RESİM ALANI */}
+                  {announcement.image_url && (
+                    <div className="relative w-full h-auto rounded-xl overflow-hidden my-6">
+                      <Image
+                        src={announcement.image_url}
+                        alt={announcement.title}
+                        width={600}
+                        height={400}
+                        className="w-full h-auto object-cover"
+                      />
+                    </div>
+                  )}
+
                   <div className="mt-6 space-y-4">
                     <p className="text-foreground/80 leading-relaxed text-lg">
                       {announcement.longDescription}
