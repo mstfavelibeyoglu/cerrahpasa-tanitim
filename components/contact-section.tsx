@@ -83,7 +83,8 @@ export function ContactSection() {
               style={{ border: 0 }}
               allowFullScreen
               loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
+              sandbox="allow-scripts allow-same-origin"
+              referrerPolicy="strict-origin-when-cross-origin"
               title="Cerrahpaşa Tıp Fakültesi Harita"
               className="grayscale opacity-80 hover:grayscale-0 hover:opacity-100 transition-all duration-500"
             />
